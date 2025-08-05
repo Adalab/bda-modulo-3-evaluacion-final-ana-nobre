@@ -1,7 +1,3 @@
-from pathlib import Path
-
-# Conteúdo do README em Markdown
-readme_content = """
 # ✈️ Análisis de Clientes del Programa de Lealtad – Evaluación Final
 
 Este repositorio contiene el ejercicio de evaluación final del Módulo 3 del Bootcamp de Análisis de Datos. Trabajamos con dos conjuntos de datos sobre el comportamiento y perfil de clientes de un programa de lealtad de una aerolínea.
